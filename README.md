@@ -46,7 +46,8 @@ We developed a **Random Forest-based Flood Prediction Model** in Google Colab.
 5. PopulationScore  
 
 **Residual Plot:** Residual_Plot.png
-**Final Model Screenshot:** ![Final Screenshot](Final_screenshot.png)  
+
+**Final Model Screenshot:** Final_Screenshot.png
 
 ---
 
