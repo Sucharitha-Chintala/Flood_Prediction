@@ -31,16 +31,15 @@ Model: Random Forest Regressor
 Version Control: GitHub
 
 📂 Project Structure
-Flood_Prediction_Project/
+Flood_Prediction/
 │
-├── Week1_Flood_Prediction.ipynb   
-├── Week2_Flood_Prediction.ipynb   
-├── Week3_Flood_Prediction_Final.ipynb   
+├── Flood_Prediction_W1.ipynb   
+├── Flood_Prediction_W2.ipynb   
+├── Flood_Prediction_W3.ipynb   
 │
-├── flood.csv                      
-├── outputs/                       
-│    ├── Residual_plot.png
-│    └── Final_screenshot.png
+├── flood.csv                                            
+├── Residual_plot.png
+├── Final_screenshot.png
 │
 └── README.md
 
