@@ -1,4 +1,5 @@
 🌊 Flood Prediction System using Machine Learning
+
 📌 Abstract
 
 Floods are one of the most frequent natural disasters, causing significant loss of life, property damage, and environmental degradation. This project builds a Flood Prediction System using machine learning techniques to estimate flood probability based on multiple risk factors such as drainage quality, dams condition, population density, and preparedness levels.
